@@ -1,7 +1,7 @@
 # Junius Tang
 
-> Technical mind, artistic expression.  
-> 理性为骨，表达为形。
+> Before all things, let the gateway be well-ordered; even when overturned, it can be restored without losing its proper measure.  
+> 万事之先，圆方门户，虽覆能复，不失其度。
 
 ---
 
@@ -83,7 +83,7 @@ Countermeasures Against Ransomware
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=BateriaJun&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=BacteriaJun&show_icons=true)
 
 ---
 
