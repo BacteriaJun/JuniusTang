@@ -1,7 +1,7 @@
 # Junius Tang
 
-> Stay within your boundary, but push it forward.  
-> 在能力边界内前进，而不是透支自己。
+> Technical mind, artistic expression.  
+> 理性为骨，表达为形。
 
 ---
 
@@ -10,13 +10,36 @@
 🎓 Master of Computing (Data Analytics), UOW  
 计算机硕士（数据分析方向）
 
-🔐 Cybersecurity Background | 网络安全背景  
-🎬 3D Animation Tools Developer | 动画工具开发者  
+🎬 3D Animation Creator (10+ years in art)  
+拥有10年以上美术基础的3D动画创作者  
 
-🧠 Focus:
-- Motion Capture / BVH / Mixamo
-- Cybersecurity (Web / Reverse / CTF)
-- Practical Tool Development
+🔧 Technical Developer (Blender / Tools)  
+动画工具开发（Blender插件等）
+
+🔐 Cybersecurity Background  
+网络安全背景（CTF / Reverse / Web）
+
+---
+
+## 🏆 Achievements | 成就
+
+🥇 2025 春秋杯网络安全联赛冬季赛一等奖  
+First Prize, 2025 Chunqiu Cup Cybersecurity League (Winter)
+
+🥇 2024 春秋杯网络安全联赛冬季赛一等奖  
+First Prize, 2024 Chunqiu Cup Cybersecurity League (Winter)
+
+🏅 多项CTF专项能力称号（Web / Crypto / Reverse / Misc）  
+Multiple CTF Special Awards (Web / Crypto / Reverse / Misc)
+
+---
+
+## 🎬 Creative & Technical Focus | 创作与技术方向
+
+- 3D Character Animation / 角色动画  
+- Motion Capture Processing (BVH / Mixamo)  
+- Animation Tool Development  
+- Technical + Artistic Integration  
 
 ---
 
@@ -24,8 +47,8 @@
 
 ### 🎬 BVH to Mixamo Converter
 
-A Blender addon that converts BVH motion capture data into Mixamo standard rigs.  
-一个将 BVH 动捕数据转换为 Mixamo 标准骨骼的 Blender 插件
+A Blender addon for converting motion capture data into production-ready rigs.  
+用于将动捕数据转换为可用动画骨骼的 Blender 插件
 
 <p align="center">
   <img src="你的GIF链接" width="600"/>
@@ -33,31 +56,37 @@ A Blender addon that converts BVH motion capture data into Mixamo standard rigs.
 
 #### ✨ Features | 功能
 
-- ✅ One-click BVH → Mixamo conversion  
-  一键转换 BVH 到 Mixamo 骨骼  
-
+- ✅ BVH → Mixamo automatic conversion  
 - 🎞️ Frame rate synchronization  
-  自动帧率同步（还原动画速度）  
-
 - 🔧 Bone mapping & hierarchy repair  
-  骨骼映射与层级修复  
+- 🧠 Animation validation  
 
-- 🧠 Animation validation system  
-  动画有效性检测  
+---
+
+## 🎨 Animation Showcase | 动画展示
+
+<p align="center">
+  <img src="你的动画GIF1" width="45%"/>
+  <img src="你的动画GIF2" width="45%"/>
+</p>
+
+> Personal animation works (WIP)  
+> 个人动画作品（持续更新中）
 
 ---
 
 ## 🛠 Tech Stack | 技术栈
 
-**Languages / 语言**
-- Python
+**Programming**
+- Python (Blender API)
 - C/C++ (basic)
 
-**Tools / 工具**
-- Blender API
-- Git / GitHub
+**3D & Animation**
+- Blender
+- Rigging / Animation Pipeline
+- Motion Capture Processing
 
-**Security / 安全**
+**Security**
 - Web Security
 - Reverse Engineering
 - CTF Competitions
@@ -68,14 +97,12 @@ A Blender addon that converts BVH motion capture data into Mixamo standard rigs.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名)
-
 ---
 
 ## 🧠 Philosophy | 理念
 
-> Not everything worth reaching is worth exhausting yourself for.  
-> 不是所有值得的东西，都值得透支去获得。
+> Stay within your boundary, but push it forward.  
+> 在能力边界内持续推进，而不是透支自己。
 
 ---
 
