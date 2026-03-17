@@ -83,7 +83,7 @@ Countermeasures Against Ransomware
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=BateriaJun&show_icons=true)
 
 ---
 
