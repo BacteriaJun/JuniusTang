@@ -28,7 +28,7 @@
 春秋杯网络安全联赛冬季赛一等奖（2025 & 2024）
 
 🏅 CTF Special Awards (Web / Crypto / Reverse / Misc) – 2024 Chunqiu Cup  
-CTF专项能力称号（Web / Crypto / Reverse / Misc，2024春秋杯）
+CTF金手指（Web / Crypto / Reverse / Misc，2024春秋杯）
 
 🔐 CNVD Vulnerability Contributor (10+ High-Risk Reports)  
 国家信息安全漏洞库（CNVD）高危漏洞报送 10+
@@ -41,26 +41,6 @@ CTF专项能力称号（Web / Crypto / Reverse / Misc，2024春秋杯）
 - Motion Capture Processing (BVH / Mixamo)  
 - Animation Tool Development  
 - Technical + Artistic Integration  
-
----
-
-## 🚀 Featured Project | 代表项目
-
-### 🎬 BVH to Mixamo Converter
-
-A Blender addon for converting motion capture data into production-ready rigs.  
-用于将动捕数据转换为可用动画骨骼的 Blender 插件
-
-<p align="center">
-  <img src="你的GIF链接" width="600"/>
-</p>
-
-#### ✨ Features | 功能
-
-- ✅ BVH → Mixamo automatic conversion  
-- 🎞️ Frame rate synchronization  
-- 🔧 Bone mapping & hierarchy repair  
-- 🧠 Animation validation  
 
 ---
 
