@@ -23,14 +23,15 @@
 
 ## 🏆 Achievements | 成就
 
-🥇 2025 春秋杯网络安全联赛冬季赛一等奖  
-First Prize, 2025 Chunqiu Cup Cybersecurity League (Winter)
+🥇 First Prize, Chunqiu Cup Cybersecurity League (Winter 2025)  
+🥇 First Prize, Chunqiu Cup Cybersecurity League (Winter 2024)  
+春秋杯网络安全联赛冬季赛一等奖（2025 & 2024）
 
-🥇 2024 春秋杯网络安全联赛冬季赛一等奖  
-First Prize, 2024 Chunqiu Cup Cybersecurity League (Winter)
+🏅 CTF Special Awards (Web / Crypto / Reverse / Misc) – 2024 Chunqiu Cup  
+CTF专项能力称号（Web / Crypto / Reverse / Misc，2024春秋杯）
 
-🏅 多项CTF专项能力称号（Web / Crypto / Reverse / Misc）  
-Multiple CTF Special Awards (Web / Crypto / Reverse / Misc)
+🔐 CNVD Vulnerability Contributor (10+ High-Risk Reports)  
+国家信息安全漏洞库（CNVD）高危漏洞报送 10+
 
 ---
 
