@@ -33,6 +33,9 @@ CTF金手指（Web / Crypto / Reverse / Misc，2024春秋杯）
 🔐 CNVD Vulnerability Contributor (10+ High-Risk Reports)  
 国家信息安全漏洞库（CNVD）高危漏洞报送 10+
 
+🥈 Silver Award, ICAD International Contemporary Youth Art Design Competition  
+第五届ICAD国际当代青年美术设计大赛 银奖
+
 ## 📄 Research | 研究与论文
 
 ### 🧠 The Proactive Approach to Cyber-Attack Prevention  
