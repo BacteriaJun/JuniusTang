@@ -42,6 +42,7 @@ CTF金手指（Web / Crypto / Reverse / Misc，2024春秋杯）
 Countermeasures Against Ransomware
 
 📍 IEEE Conference Paper  
+ISBN:979-8-3503-7655-5
 
 ---
 
