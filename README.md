@@ -73,7 +73,7 @@ Interest in symbolic design, history, and systemized collections
 ## 🎨 Animation Showcase | 动画展示
 
 <p align="center">
-  <img src="你的动画GIF1" width="45%"/>
+  <img src="a2c332e5672cd37532b2ce1e42cac9d5.jpg" width="45%"/>
   <img src="你的动画GIF2" width="45%"/>
 </p>
 
