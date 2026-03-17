@@ -74,7 +74,7 @@ Interest in symbolic design, history, and systemized collections
 
 <p align="center">
   <img src="a2c332e5672cd37532b2ce1e42cac9d5.jpg" width="45%"/>
-  <img src="464a45598ba3004115ac81d41bfc72f3.jpg.mp4" width="45%"/>
+  <img src="464a45598ba3004115ac81d41bfc72f3.jpg" width="45%"/>
 </p>
 
 > Personal animation works (WIP)  
