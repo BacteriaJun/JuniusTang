@@ -40,11 +40,6 @@ Countermeasures Against Ransomware
 
 📍 IEEE Conference Paper  
 
-
-
-
-👉 [View Paper](你的PDF链接)
-
 ---
 
 ## 🎬 Creative & Technical Focus | 创作与技术方向
@@ -101,4 +96,4 @@ Countermeasures Against Ransomware
 
 ## 📫 Contact
 
-- GitHub: https://github.com/你的用户名
+- GitHub: https://github.com/BacteriaJun
