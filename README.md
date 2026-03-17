@@ -40,17 +40,8 @@ Countermeasures Against Ransomware
 
 📍 IEEE Conference Paper  
 
-This research proposes a proactive cybersecurity framework integrating:
-- Predictive analytics (Machine Learning-based threat prediction)
-- Threat lifecycle analysis
-- Ransomware-specific countermeasures
 
-A case study demonstrates significant improvements:
-- ⏱️ Detection time reduced by ~95%  
-- ⚡ Response time reduced by ~95%  
-- 🛡️ Security incidents drastically decreased  
 
-论文提出了一种主动防御的网络安全体系，通过机器学习预测、威胁生命周期分析以及针对勒索软件的防御策略，实现显著的安全提升效果。
 
 👉 [View Paper](你的PDF链接)
 
