@@ -57,16 +57,18 @@ ISBN:979-8-3503-7655-5
 
 ## 🧩 Beyond Tech | 技术之外
 
-🪨 Mineral Specimens  
+🪨 Mineral Specimens  矿石标本收藏爱好者
 Fascinated by natural structures, textures, and material forms  
 对自然结构、纹理与材质形态有长期兴趣
 
-🎖️ Medals & Insignia  
+🎖️ Medals & Insignia  勋章收藏爱好者
 Interest in symbolic design, history, and systemized collections  
 关注符号设计、历史与体系化收藏
 
 > A consistent appreciation for structure and form, across both nature and human design.  
 > 对“结构与形式”的统一审美，贯穿自然与人造体系
+
+---
 
 ## 🎨 Animation Showcase | 动画展示
 
