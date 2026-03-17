@@ -57,11 +57,11 @@ ISBN:979-8-3503-7655-5
 
 ## 🧩 Beyond Tech | 技术之外
 
-🪨 Mineral Specimens  矿石标本收藏爱好者
+🪨 Mineral Specimens矿石标本收藏爱好者
 Fascinated by natural structures, textures, and material forms  
 对自然结构、纹理与材质形态有长期兴趣
 
-🎖️ Medals & Insignia  勋章收藏爱好者
+🎖️ Medals & Insignia勋章收藏爱好者
 Interest in symbolic design, history, and systemized collections  
 关注符号设计、历史与体系化收藏
 
