@@ -1,119 +1,88 @@
-# Junius Tang
+# Hi, I'm Junius Tang 👋
 
-> Before all things, let the gateway be well-ordered; even when overturned, it can be restored without losing its proper measure.  
+> Before all things, let the gateway be well-ordered;  
+> even when overturned, it can be restored without losing its proper measure.  
 > 万事之先，圆方门户，虽覆能复，不失其度。
 
 ---
 
-## 👤 About Me | 关于我
+## 👤 About Me
 
-🎓 Master of Computing (Data Analytics), UOW  
-计算机硕士（数据分析方向）
-
-🎬 3D Animation Creator (10+ years in art)  
-拥有10年以上美术基础的3D动画创作者  
-
-🔧 Technical Developer (Blender / Tools)  
-动画工具开发（Blender插件等）
-
-🔐 Cybersecurity Background  
-网络安全背景（CTF / Reverse / Web）
+- 🎓 Master of Computing (Data Analytics) @ UOW  
+- 🎬 3D Animation Creator with 10+ years in art  
+- 🔧 I build tools for animation pipelines (Blender / Mocap)  
+- 🔐 Background in Cybersecurity (CTF / CNVD / Reverse)  
 
 ---
 
-## 🏆 Achievements | 成就
+## 🚀 What I'm Doing
 
-🥇 First Prize, Chunqiu Cup Cybersecurity League (Winter 2025)  
-🥇 First Prize, Chunqiu Cup Cybersecurity League (Winter 2024)  
-春秋杯网络安全联赛冬季赛一等奖（2025 & 2024）
-
-🏅 CTF Special Awards (Web / Crypto / Reverse / Misc) – 2024 Chunqiu Cup  
-CTF金手指（Web / Crypto / Reverse / Misc，2024春秋杯）
-
-🔐 CNVD Vulnerability Contributor (10+ High-Risk Reports)  
-国家信息安全漏洞库（CNVD）高危漏洞报送 10+
-
-🥈 Silver Award, ICAD International Contemporary Youth Art Design Competition  
-第五届ICAD国际当代青年美术设计大赛 银奖
-
-## 📄 Research | 研究与论文
-
-### 🧠 The Proactive Approach to Cyber-Attack Prevention  
-Countermeasures Against Ransomware
-
-📍 IEEE Conference Paper  
-ISBN:979-8-3503-7655-5
+- 🎞️ Building **animation tools** bridging BVH ↔ Mixamo pipelines  
+- 🧠 Exploring **technical + artistic integration**  
+- 🔍 Practicing **security research & vulnerability discovery**  
+- 📈 Continuously refining my GitHub as a long-term signal  
 
 ---
 
-## 🎬 Creative & Technical Focus | 创作与技术方向
+## 🏆 Selected Achievements
 
-- 3D Character Animation / 角色动画  
-- Motion Capture Processing (BVH / Mixamo)  
-- Animation Tool Development  
-- Technical + Artistic Integration  
-
----
-
-## 🧩 Beyond Tech | 技术之外
-
-🪨 Mineral Specimens矿石标本收藏爱好者
-Fascinated by natural structures, textures, and material forms  
-对自然结构、纹理与材质形态有长期兴趣
-
-🎖️ Medals & Insignia勋章收藏爱好者
-Interest in symbolic design, history, and systemized collections  
-关注符号设计、历史与体系化收藏
-
-> A consistent appreciation for structure and form, across both nature and human design.  
-> 对“结构与形式”的统一审美，贯穿自然与人造体系
+- 🥇 Chunqiu Cup Cybersecurity League — **1st Prize (2024 & 2025)**  
+- 🏅 CTF Special Awards (Web / Crypto / Reverse / Misc)  
+- 🔐 CNVD — 10+ High-Risk Vulnerability Reports  
+- 🥈 ICAD International Art Design Competition — Silver Award  
+- 📄 IEEE Conference Paper (Ransomware Countermeasures)
 
 ---
 
-## 🎨 Animation Showcase | 动画展示
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="a2c332e5672cd37532b2ce1e42cac9d5.jpg" width="45%"/>
-  <img src="464a45598ba3004115ac81d41bfc72f3.jpg" width="45%"/>
-  <img src="df6903375f069b292c2a46f32889b898.jpg" width="45%"/>
-</p>
+**Languages**  
+Python · C/C++ (basic)
 
-> Personal animation works (WIP)  
-> 个人动画作品（持续更新中）
+**3D & Animation**  
+Blender · Rigging · Motion Capture · Pipeline Tools  
 
----
-
-## 🛠 Tech Stack | 技术栈
-
-**Programming**
-- Python (Blender API)
-- C/C++ (basic)
-
-**3D & Animation**
-- Blender
-- Rigging / Animation Pipeline
-- Motion Capture Processing
-
-**Security**
-- Web Security
-- Reverse Engineering
-- CTF Competitions
+**Security**  
+Web Security · Reverse Engineering · CTF  
 
 ---
 
-## 📊 GitHub Stats
+## 🎬 Creative Direction
 
-![stats](https://github-readme-stats.vercel.app/api?username=BacteriaJun&show_icons=true)
+I focus on the intersection of:
+
+- Animation  
+- Tooling  
+- Systems thinking  
+
+Turning **art workflows into structured, automatable systems**.
 
 ---
 
-## 🧠 Philosophy | 理念
+## 🧩 Beyond Tech
+
+- 🪨 Mineral specimen collector  
+- 🎖️ Medals & insignia enthusiast  
+
+I’m deeply interested in **structure, form, and systems**,  
+whether in nature or human design.
+
+---
+
+## 📊 GitHub Activity
+
+![stats](https://github-readme-stats.vercel.app/api?username=BacteriaJun&show_icons=true&theme=dracula&hide_border=true)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BacteriaJun&layout=compact&theme=dracula&hide_border=true)
+
+---
+
+## 🧠 Philosophy
 
 > Stay within your boundary, but push it forward.  
-> 在能力边界内持续推进，而不是透支自己。
+> 在能力边界内推进，而非透支自己。
 
 ---
 
-## 📫 Contact
+## 🌐 Connect With Me
 
 - GitHub: https://github.com/BacteriaJun
