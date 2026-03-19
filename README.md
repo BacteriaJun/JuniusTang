@@ -1,61 +1,90 @@
-# Hi, I'm Junius Tang 👋
+<a href="#"><img align="center" alt="Welcome" width="100%" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-> Before all things, let the gateway be well-ordered;  
-> even when overturned, it can be restored without losing its proper measure.  
-> 万事之先，圆方门户，虽覆能复，不失其度。
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=89CFF0&center=true&vCenter=true&width=600&lines=Junius+Tang;3D+Animation+%2B+Tooling;Cybersecurity+%7C+CTF+Player;Blender+Plugin+Developer;Keep+Building+in+Silence" />
+  </a>
+</h3>
 
 ---
 
-## 👤 About Me
+<h1 align="center">Hi 👋, I'm Junius Tang</h1>
+
+<h3 align="center">Animation · Tools · Security · Systems</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BacteriaJun&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🧠 About Me
 
 - 🎓 Master of Computing (Data Analytics) @ UOW  
-- 🎬 3D Animation Creator with 10+ years in art  
-- 🔧 I build tools for animation pipelines (Blender / Mocap)  
-- 🔐 Background in Cybersecurity (CTF / CNVD / Reverse)  
+- 🎬 10+ years in **Art & 3D Animation**  
+- 🔧 Blender Plugin Developer (BVH → Mixamo Pipeline)  
+- 🔐 Cybersecurity Background (CTF / CNVD / Reverse)  
 
 ---
 
-## 🚀 What I'm Doing
+## 🚀 Current Focus
 
-- 🎞️ Building **animation tools** bridging BVH ↔ Mixamo pipelines  
-- 🧠 Exploring **technical + artistic integration**  
-- 🔍 Practicing **security research & vulnerability discovery**  
-- 📈 Continuously refining my GitHub as a long-term signal  
+- 🎞️ Building **animation pipeline tools**
+- 🧠 Bridging **technical & artistic systems**
+- 🔍 Vulnerability research & CTF practice
+- 📈 Growing long-term GitHub signal
 
 ---
 
-## 🏆 Selected Achievements
+## 🏆 Achievements
 
 - 🥇 Chunqiu Cup Cybersecurity League — **1st Prize (2024 & 2025)**  
 - 🏅 CTF Special Awards (Web / Crypto / Reverse / Misc)  
-- 🔐 CNVD — 10+ High-Risk Vulnerability Reports  
-- 🥈 ICAD International Art Design Competition — Silver Award  
-- 📄 IEEE Conference Paper (Ransomware Countermeasures)
+- 🔐 CNVD — 10+ High-Risk Reports  
+- 🥈 ICAD Art Design Competition — Silver Award  
+- 📄 IEEE Conference Paper (Ransomware Research)
 
 ---
 
-## 🛠️ Tech Stack
+## 🎬 Featured Project
 
-**Languages**  
-Python · C/C++ (basic)
+### 🔥 BVH to Mixamo Converter
 
-**3D & Animation**  
-Blender · Rigging · Motion Capture · Pipeline Tools  
+> A Blender addon for motion capture pipeline automation
 
-**Security**  
-Web Security · Reverse Engineering · CTF  
+- Frame rate synchronization  
+- Bone mapping & hierarchy repair  
+- Animation validation  
+
+👉 Designed for **real-world animation workflows**
 
 ---
 
-## 🎬 Creative Direction
+## 💻 Tech Stack
 
-I focus on the intersection of:
+<div align="center">
 
-- Animation  
-- Tooling  
-- Systems thinking  
+<img src="https://skillicons.dev/icons?i=python,cpp,blender,git,github,vscode" /><br>
+<img src="https://skillicons.dev/icons?i=linux,docker" />
 
-Turning **art workflows into structured, automatable systems**.
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=BacteriaJun&show_icons=true&theme=gruvbox&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BacteriaJun&layout=compact&theme=gruvbox&hide_border=true" height="150"/>
+</div>
+
+---
+
+## 🧬 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=BacteriaJun&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
 
 ---
 
@@ -64,25 +93,14 @@ Turning **art workflows into structured, automatable systems**.
 - 🪨 Mineral specimen collector  
 - 🎖️ Medals & insignia enthusiast  
 
-I’m deeply interested in **structure, form, and systems**,  
-whether in nature or human design.
-
----
-
-## 📊 GitHub Activity
-
-![stats](https://github-readme-stats.vercel.app/api?username=BacteriaJun&show_icons=true&theme=dracula&hide_border=true)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BacteriaJun&layout=compact&theme=dracula&hide_border=true)
+> I’m fascinated by **structure, form, and systems**  
+> across both nature and engineered worlds.
 
 ---
 
 ## 🧠 Philosophy
 
 > Stay within your boundary, but push it forward.  
-> 在能力边界内推进，而非透支自己。
+> 在能力边界内推进，而不是透支自己。
 
 ---
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/BacteriaJun
