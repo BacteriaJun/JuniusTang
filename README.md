@@ -33,7 +33,7 @@
 - 🛡️ Huawei Certified ICT Professional — **HCIP-Security**  
 - 🏅 5th Great Wall Cup Cybersecurity Competition & Beijing Cybersecurity Skills Contest — **Security Guardian Award**  
 - 🥈 ICAD International Contemporary Youth Art Design Competition — **Silver Award**  
-- 📄 IEEE Conference Paper — *The Proactive Approach to Cyber-Attack Prevention (Ransomware Countermeasures)*  
+- 📄 IEEE Conference Paper — *(Ransomware Countermeasures)*  
 
 ---
 
