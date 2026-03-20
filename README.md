@@ -32,7 +32,7 @@
 - 🏅 Chunqiu Cup (Winter 2024) — **Multi-Domain CTF Special Awards (Web / Crypto / Reverse / Misc)**  
 - 🔐 CNVD (China National Vulnerability Database) — **10+ High-Risk Vulnerability Reports**  
 - 🛡️ Huawei Certified ICT Professional — **HCIP-Security**  
-- 🏅 5th “Great Wall Cup” Cybersecurity Competition & Beijing-Tianjin-Hebei-Mongolia Cybersecurity Skills Contest — **Security Guardian Award**  
+- 🏅 5th “Great Wall Cup” Cybersecurity Competition & Beijing-Tianjin Cybersecurity Skills Contest — **Security Guardian Award**  
 - 🥈 ICAD International Contemporary Youth Art Design Competition — **Silver Award**  
 - 📄 IEEE Conference Paper — *The Proactive Approach to Cyber-Attack Prevention (Ransomware Countermeasures)*  
 
